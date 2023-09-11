@@ -35,21 +35,21 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Software Developer
+                  Big Data Python Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Company Name
+                  SAS2PY Pvt Ltd
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   June 2023 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                  In my current role as a Big Data Python Developer, 
+                  my focus has been on a singular yet critical responsibility — 
+                  spearheading offloading projects aimed at 
+                  converting SAS code to PySpark. Within this specialized domain, 
+                  I have honed my expertise in Python, SAS, and Spark, 
+                  consistently delivering efficient solutions.
                 </p>
               </div>
             </div>
@@ -73,21 +73,22 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  B.Tech, Computer Science
+                  B.Tech, Electronics and Communication
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  College Name
+                  Institute of Aeronautical Engineering
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2023 - Year 2027
+                  Year 2018 - Year 2022
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                  With an academic record reflecting a 71% performance,
+                  I bring a solid educational foundation. My expertise includes
+                  Python programming, proficient problem-solving using Data Structures 
+                  and Algorithms, and a mastery of SQL. My enthusiasm extends to OpenAI,
+                  where I actively explore and engage with emerging AI technologies.
+                  My achievements include top positions in college-held hackathons,
+                  underscoring my commitment to innovation and technical excellence.
                 </p>
               </div>
             </div>
